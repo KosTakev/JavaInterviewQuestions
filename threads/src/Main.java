@@ -3,5 +3,12 @@ public class Main {
 
         MyClass thread1 = new MyClass();
         thread1.start();
+
+        Thread thread2 = new Thread(new MyNewClass());
+        thread2.start();
+         /*
+        When the thread is started it will call the run()
+        method of the MyClass instance instead of executing its own run() method.
+         */
     }
 }
