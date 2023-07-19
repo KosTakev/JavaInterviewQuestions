@@ -1,5 +1,9 @@
 import java.util.Scanner;
 
+/*
+Reversing a String with for cycle
+ */
+
 public class Main {
     public static void main(String[] args) {
 
