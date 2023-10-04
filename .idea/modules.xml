@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/polymorphismAndInheritance.iml" filepath="$PROJECT_DIR$/polymorphismAndInheritance.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/serializationDemo.iml" filepath="$PROJECT_DIR$/serializationDemo.iml" />
+>>>>>>> 863f594 (Serialization and Deserialization)
     </modules>
   </component>
 </project>
